@@ -13,7 +13,7 @@ Create a script that collects company data from this Crunchbase page:
 https://www.crunchbase.com/discover/saved/companies/414e9c05-7475-48d9-9082-9c0b293cfb79
 
 **Requirements:**
-- Use the internal API endpoint that the page uses to load data
+- Use the internal API endpoint that the page uses to load data (you may need to create an account to bypass protection)
 - **Input:** Accept a start date as a command-line parameter (e.g., `2024-01-01`). The script should collect data for each day from that date until today.
 - Collect the following fields: **Organization Name**, **Description**, **Founded Date**
 - Save collected data to a local file (CSV or JSON)
