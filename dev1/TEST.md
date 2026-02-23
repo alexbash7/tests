@@ -18,6 +18,3 @@ https://www.crunchbase.com/discover/saved/companies/414e9c05-7475-48d9-9082-9c0b
 - Collect the following fields: **Organization Name**, **Description**, **Founded Date**
 - Save collected data to a local file (CSV or JSON)
 - If the script crashes or is stopped, it should be able to continue from where it left off
-- The script should be production-ready
-
-When time is up, just stop wherever you are
